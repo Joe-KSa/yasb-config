@@ -26,7 +26,6 @@ While keeping the original clean aesthetic as a foundation, I completely reworke
 4. Restart YASB.
 
 ## Gallery
----
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e560865a-e0c2-468b-89aa-be25613459ef" alt="YASB Custom Setup Preview" width="100%">
 </p>
@@ -48,12 +47,13 @@ While keeping the original clean aesthetic as a foundation, I completely reworke
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/367b7d9c-4304-41f2-8eaa-1b2560e429e5" alt="YASB Custom Setup Preview" width="100%">
+  <img src="https://github.com/user-attachments/assets/78cbae2c-ebd3-4a4f-87ec-2d7efd927bf5" alt="YASB Custom Setup Preview" width="100%">
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/56f619ed-c415-45fd-8ee4-093b64628022" alt="YASB Custom Setup Preview" width="100%">
 </p>
 
----
-*Based on the original Cosmic Bar theme layout.*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/367b7d9c-4304-41f2-8eaa-1b2560e429e5" alt="YASB Custom Setup Preview" width="100%">
+</p>
