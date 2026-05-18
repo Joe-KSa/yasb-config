@@ -1,0 +1,12 @@
+# Archivos de respaldo locales de texto/configuración
+*.backup
+*.bak
+*.old
+
+# Archivos de registro y logs de ejecución
+*.log
+yasb.log
+
+# Archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
